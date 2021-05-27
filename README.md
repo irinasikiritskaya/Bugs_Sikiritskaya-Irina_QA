@@ -1,2 +1,2 @@
 # Bugs_Sikiritskaya Irina_QA
-Bugs found on the website https://infoprice.by/
+The file contains developed checklists, test cases and found bugs on the website https://infoprice.by/
